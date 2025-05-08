@@ -46,7 +46,7 @@ The Video-Audio-Text Transformer (VATT) represents a significant advancement in 
 
 To view the Jupyter Notebook:
 Clone the repository
-[git clone https://github.com/raunitpatel/DA323---Course-Project/](https://github.com/raunitpatel/DA323---Course-Project.git)
+[git clone https://github.com/raunitpatel/DA323---Course-Project/](https://github.com/raunitpatel/DA323---Course-Project.git)<br>
 cd DA323---Course-Project
 
 Install dependencies 
