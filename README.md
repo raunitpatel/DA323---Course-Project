@@ -19,9 +19,10 @@ The Video-Audio-Text Transformer (VATT) represents a significant advancement in 
 
 ## Repository Contents
 
-- **Presentation Slides**: A 23-slide PowerPoint presentation (`MMDP_PROJECT.pdf`) covering all aspects of VATT, from motivation to results and future scope. [Download here](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/51995152/c3c4c049-d36e-4292-b64f-87c3ed8e400b/MMDP_PROJECT.pdf).
+- **Presentation Slides**: A 23-slide PowerPoint presentation (`VATT_PPT.pdf`) covering all aspects of VATT, from motivation to results and future scope.
 - **Jupyter Notebook**: A blog-style explanation (`VATT_Blog.ipynb`) with detailed sections on motivation, historical perspective, key learnings, approach, results, surprises, scope for improvement, and references. Includes visualizations and code snippets for performance metrics.
-- **Resources**: Additional materials and references related to the VATT paper and multimodal learning research.
+- **Youtube Video**: <a href="https://youtu.be/xy1Ji365y-I" target="_blank">Watch Here</a>
+
 
 ## Project Structure in Notebook
 
@@ -44,7 +45,7 @@ The Video-Audio-Text Transformer (VATT) represents a significant advancement in 
 
 To view the Jupyter Notebook:
 Clone the repository
-git clone https://github.com/raunitpatel/DA323---Course-Project/
+[git clone https://github.com/raunitpatel/DA323---Course-Project/](https://github.com/raunitpatel/DA323---Course-Project.git)
 cd DA323---Course-Project
 
 Install dependencies 
