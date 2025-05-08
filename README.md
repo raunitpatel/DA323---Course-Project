@@ -22,6 +22,7 @@ The Video-Audio-Text Transformer (VATT) represents a significant advancement in 
 - **Presentation Slides**: A 23-slide PowerPoint presentation (`VATT_PPT.pdf`) covering all aspects of VATT, from motivation to results and future scope.
 - **Jupyter Notebook**: A blog-style explanation (`VATT_Blog.ipynb`) with detailed sections on motivation, historical perspective, key learnings, approach, results, surprises, scope for improvement, and references. Includes visualizations and code snippets for performance metrics.
 - **Youtube Video**: <a href="https://youtu.be/xy1Ji365y-I" target="_blank">Watch Here</a>
+- **Resources**: Additional materials and references related to the VATT paper and multimodal learning research.
 
 
 ## Project Structure in Notebook
